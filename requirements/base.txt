@@ -1,0 +1,16 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-redis
+redis
+celery
+django-celery-beat
+boto3
+django-storages
+psycopg2-binary
+python-decouple
+twilio
+requests
+Pillow
+django-cors-headers
+django-filter
